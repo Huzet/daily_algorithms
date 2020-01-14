@@ -6,4 +6,4 @@ let myname = "Tomas";
 let temp = mynumber;
 mynumber = myname;
 myname = temp;
-console.log(mynumber, myname)
+console.log(mynumber, myname);
